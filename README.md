@@ -1,2 +1,2 @@
 # cvticmas
-Modeo de curriculum trabajo practivo
+cv de ejemplo
