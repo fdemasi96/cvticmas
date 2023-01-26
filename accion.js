@@ -1,0 +1,4 @@
+
+function imprimirpagina() {
+  window.print();
+}
